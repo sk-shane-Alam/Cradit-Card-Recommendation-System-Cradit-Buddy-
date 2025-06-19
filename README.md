@@ -1,5 +1,9 @@
 
 
+
+https://github.com/user-attachments/assets/63b9fa73-9d37-4f8d-87c2-412ca74449d0
+
+
 # Credit Buddy: Credit Card Recommendation System
 
 ## Table of Contents
